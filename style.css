@@ -46,7 +46,7 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 3px;
-    background: red;
+    background: black;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -57,10 +57,10 @@ nav ul li a:hover::after{
 }
 .header-text{
     margin-top: 25%;
-    font-size: 30px;
+    font-size: 25px;
 }
 .header-text h1{
-    font-size: 60px;
+    font-size: 30px;
     margin-top: 10px;
 }
 .header-text h1 span{ 
@@ -121,7 +121,7 @@ nav ul li a:hover::after{
 }
 .tab-contents ul li span{
     font-size: 14px;
-    color: red;
+    color: black;
 }
 .tab-contents{
     display: none;
