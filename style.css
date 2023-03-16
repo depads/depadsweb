@@ -8,8 +8,8 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: black;
-    color: red;
+    background: white;
+    color: black;
 }
 #header{
      width: 100%;
@@ -64,12 +64,12 @@ nav ul li a:hover::after{
     margin-top: 10px;
 }
 .header-text h1 span{ 
-    color: white;
+    color: black;
 }
 /*-----------about-----------*/
 #about{
     padding: 80px o;
-    color: white;
+    color: red;
 }
 .row{
     display: flex;
@@ -89,7 +89,7 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 50px;
     font-weight: 600;
-    color: white;
+    color: red;
 }
 .tab-titles{
     display: flex;
@@ -106,7 +106,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: red;
+    background: black;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -222,7 +222,7 @@ nav .fa-solid{
         font-size: 25px;
     }
     nav ul{
-        background: black;
+        background: white;
         position: fixed;
         top: 0;
         right: -100px;
