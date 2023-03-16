@@ -37,9 +37,9 @@ nav ul li{
     margin: 10px 20px;
 }
 nav ul li a{
-    color: purple;
+    color: white;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px;
     position: relative;
 }
 nav ul li a::after{
@@ -64,12 +64,12 @@ nav ul li a:hover::after{
     margin-top: 10px;
 }
 .header-text h1 span{ 
-    color: blue;
+    color: orchid;
 }
 /*-------------------about---------------------*/
 #about{
     padding: 80px o;
-    color: orange;
+    color: white;
 }
 .row{
     display: flex;
@@ -87,9 +87,9 @@ nav ul li a:hover::after{
     flex-basis: 60%;
 }
 .sub-title{
-    font-size: 50px;
+    font-size: 500px;
     font-weight: 600;
-    color: green;
+    color: White;
 }
 .tab-titles{
     display: flex;
