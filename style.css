@@ -37,8 +37,8 @@ nav ul li{
     margin: 10px 20px;
 }
 nav ul li a{
-    color: red;
-    text-decoration: none;
+    color: white;
+    text-decoration: underline;
     font-size: 16px;
     position: relative;
 }
@@ -64,20 +64,20 @@ nav ul li a:hover::after{
     margin-top: 10px;
 }
 .header-text h1 span{ 
-    color: black;
+    color: red;
 }
 /*-----------about-----------*/
 #about{
     padding: 80px o;
-    color: red;
+    color: black;
 }
 .row{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
 }
 .about-col-1{
-    flex-basis: 35%;
+    flex-basis: 25%;
 }
 .about-col-1 img{
     width: 100%;
@@ -89,7 +89,7 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 50px;
     font-weight: 600;
-    color: red;
+    color: black;
 }
 .tab-titles{
     display: flex;
@@ -106,7 +106,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: black;
+    background: white;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -141,7 +141,7 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 .contact-left p i{
-    color: red;
+    color: black;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -162,7 +162,7 @@ nav ul li a:hover::after{
 }
 .btn.btn2{
     display: inline-block;
-    background: red;
+    background: white;
 }
 .contact-right form{
     width: 100%;
@@ -171,10 +171,10 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background: #262626;
+    background: white;
     padding: 15px;
     margin: 15px 0;
-    color: white;
+    color: black;
     font-size: 18px;
     border-radius: 6px;
 }
@@ -192,7 +192,7 @@ form .btn2{
     margin-top: 20px;
 }
 .copyright i{
-    color: red;
+    color: black;
 }
 
 /*------------css for small screen---------*/
