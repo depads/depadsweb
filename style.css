@@ -8,8 +8,8 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: white;
-    color: black;
+    background: black;
+    color: purple;
 }
 #header{
      width: 100%;
@@ -37,7 +37,7 @@ nav ul li{
     margin: 10px 20px;
 }
 nav ul li a{
-    color: white;
+    color: purple;
     text-decoration: none;
     font-size: 18px;
     position: relative;
@@ -46,7 +46,7 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 3px;
-    background: red;
+    background: pink;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -64,12 +64,12 @@ nav ul li a:hover::after{
     margin-top: 10px;
 }
 .header-text h1 span{ 
-    color: white;
+    color: blue;
 }
 /*-------------------about---------------------*/
 #about{
     padding: 80px o;
-    color: white;
+    color: orange;
 }
 .row{
     display: flex;
@@ -89,7 +89,7 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 50px;
     font-weight: 600;
-    color: white;
+    color: green;
 }
 .tab-titles{
     display: flex;
@@ -106,7 +106,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: red;
+    background: brown;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -121,7 +121,7 @@ nav ul li a:hover::after{
 }
 .tab-contents ul li span{
     font-size: 16px;
-    color: white;
+    color: peach;
 }
 .tab-contents{
     display: none;
@@ -141,7 +141,7 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 .contact-left p i{
-    color: red;
+    color: coral;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -157,12 +157,12 @@ nav ul li a:hover::after{
     transition: transform 0.5s;
 }
 .social-icons a:hover{
-    color: red;
+    color: dark green;
     transform: translateY(-5px);
 }
 .btn.btn2{
     display: inline-block;
-    background: red;
+    background: golden;
 }
 .contact-right form{
     width: 100%;
@@ -174,7 +174,7 @@ form input, form textarea{
     background: #262626;
     padding: 15px;
     margin: 15px 0;
-    color: white;
+    color: yellow;
     font-size: 18px;
     border-radius: 6px;
 }
@@ -192,7 +192,7 @@ form .btn2{
     margin-top: 20px;
 }
 .copyright i{
-    color: red;
+    color: salmon;
 }
 
 /*---------------------css for small screen-----------------------*/
@@ -222,7 +222,7 @@ nav .fa-solid{
         font-size: 20px;
     }
     nav ul{
-        background: red;
+        background: white;
         position: fixed;
         top: 0;
         right: -100px;
