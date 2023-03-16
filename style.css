@@ -5,14 +5,18 @@
     background-size:cover;
     position:relative;
 }
-/* text css above ideme image*/
+/* display background color black on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+/* text css above idme image*/
 .hero_title {
     font-size: 4.5rem;
 }
 .idme_desc {
     font-size: 2rem;
 }
-.iddme-text {
+.idme-text {
     text-align: center;
     position: absolute;
     top: 50%;
