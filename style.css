@@ -71,6 +71,10 @@ nav ul li a:hover::after{
     padding: 80px o;
     color: white;
 }
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
 .row{
     display: flex;
     justify-content: space-between;
