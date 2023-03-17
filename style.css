@@ -46,7 +46,7 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 3px;
-    background: pink;
+    background: red violet;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -87,7 +87,7 @@ nav ul li a:hover::after{
     flex-basis: 60%;
 }
 .sub-title{
-    font-size: 500px;
+    font-size: 50px;
     font-weight: 600;
     color: White;
 }
