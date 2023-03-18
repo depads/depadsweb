@@ -262,9 +262,27 @@ nav .fa-solid{
         font-size: 10px;
     }
     
+#msg {
+  display: block;
+  margin-top: 20px;
+  font-size: 16px;
+  color: #4CAF50;
 }
-#msg{
-    color: black;
-    margin-top: -40px;
-    display: block;
-} 
+
+.contact-left {
+  width: 50%;
+  text-align: center;
+  font-size: 20px;
+}
+
+.contact-left p {
+  margin-bottom: 30px;
+}
+
+.contact-left h1 {
+  font-size: 24px;
+}
+
+.contact-left h1 span {
+  display: block;
+}
