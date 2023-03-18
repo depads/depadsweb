@@ -162,7 +162,7 @@ nav ul li a:hover::after{
     transition: transform 0.5s;
 }
 .social-icons a:hover{
-    color:  green;
+    color:  red;
     transform: translateY(-5px);
 }
 .btn.btn2{
@@ -176,10 +176,10 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background: red;
+    background: black;
     padding: 15px;
     margin: 15px 0;
-    color: green;
+    color: red;
     font-size: 18px;
     border-radius: 6px;
 }
