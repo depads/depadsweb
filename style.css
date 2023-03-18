@@ -64,7 +64,7 @@ nav ul li a:hover::after{
     margin-top: 10px;
 }
 .header-text h1 span{ 
-    color: yellow;
+    color: red violet;
 }
 /*-------------------about---------------------*/
 #about{
@@ -157,7 +157,7 @@ nav ul li a:hover::after{
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
-    color: #ababab;
+    color: darkblue;
     display: inline-block;
     transition: transform 0.5s;
 }
