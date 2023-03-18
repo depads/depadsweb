@@ -174,14 +174,14 @@ form .btn2{
     margin-top: 20px;
     cursor: pointer;
 }
-.copyright{
+.contact-left{
     width: 100%;
     text-align: center;
     padding: 25px 0;
     font-weight: 20;
     margin-top: 20px;
 }
-.copyright i{
+.contact-left i{
     color: black;
 }
 
