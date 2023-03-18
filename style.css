@@ -69,11 +69,12 @@ nav ul li a:hover::after{
 /*-------------------about---------------------*/
 #about{
     padding: 80px o;
-    color: white;
+    color: red orange;
 }
 /* about section image css */
 .imageAboutPage {
     width: 100%;
+    
 }
 .row{
     display: flex;
@@ -93,7 +94,7 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 50px;
     font-weight: 600;
-    color: White;
+    color: pink;
 }
 .tab-titles{
     display: flex;
@@ -110,7 +111,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: black;
+    background: white;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -125,7 +126,7 @@ nav ul li a:hover::after{
 }
 .tab-contents ul li span{
     font-size: 16px;
-    color: white;
+    color: purple;
 }
 .tab-contents{
     display: none;
@@ -226,7 +227,7 @@ nav .fa-solid{
         font-size: 20px;
     }
     nav ul{
-        background: white;
+        background: voilet;
         position: fixed;
         top: 0;
         right: -100px;
