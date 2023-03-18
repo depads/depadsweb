@@ -69,7 +69,7 @@ nav ul li a:hover::after{
 /*-------------------about---------------------*/
 #about{
     padding: 80px o;
-    color: yellow;
+    color: black;
 }
 /* about section image css */
 .imageAboutPage {
@@ -176,10 +176,10 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background: white;
+    background: black;
     padding: 15px;
     margin: 15px 0;
-    color: black;
+    color: white;
     font-size: 18px;
     border-radius: 6px;
 }
