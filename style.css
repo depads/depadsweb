@@ -266,7 +266,7 @@ nav .fa-solid{
   display: block;
   margin-top: 20px;
   font-size: 16px;
-  color: #4CAF50;
+  color: red;
 }
 
 .contact-left {
@@ -280,7 +280,7 @@ nav .fa-solid{
 }
 
 .contact-left h1 {
-  font-size: 24px;
+  font-size: 15px;
 }
 
 .contact-left h1 span {
