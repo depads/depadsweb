@@ -9,7 +9,7 @@ html{
 }
 body{
     background: white;
-    color: red violet;
+    color: violet;
 }
 #header{
      width: 100%;
@@ -124,7 +124,7 @@ ul li:before {
 .contact-left{
     flex-basis: 35%;
 }
-.contact-right{
+.contact-left{
     flex-basis: 60%;
 }
 .contact-left p{
@@ -154,7 +154,7 @@ ul li:before {
     display: inline-block;
     background:none;
 }
-.contact-right form{
+.contact-left form{
     width: 100%;
 }
 form input, form textarea{
